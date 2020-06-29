@@ -29,7 +29,7 @@
     "jquery"
   ],
   "dependencies": {
-    "express": "3.0.6"
+    "express": "4.17.1"
   },
   "devDependencies": {
     "javascript-brunch": "> 1.0 < 1.8",
